@@ -12,11 +12,11 @@ Se quiser testar o seu conhecimento, basta seguir os passos abaixo:
 
 5. Desenvolver conforme proposto:
 
-5.1 Criar formulário de recurso (e o CRUD -> Create, Read, Update, Delete) conforme imagem do protótipo:
+ 5.1 Criar formulário de recurso (e o CRUD -> Create, Read, Update, Delete) conforme imagem do protótipo:
 ![prototipo](prototipo.jpg)
 
-5.2 Conhecimento do Recurso deve vir da base de dados, criar também um CRUD
+ 5.2 Conhecimento do Recurso deve vir da base de dados, criar também um CRUD
 
-6. Criar um projeto no seu usuário do bitbucket, enviar a url com os commits feitos
+6. Criar um projeto no seu usuário, enviar a url com os commits feitos (ou um pull request)
 
 OBS: Faça commits frequentes para as pequenas alterações
